@@ -53,6 +53,6 @@ Healing Ramp - {time:4:00} |cfffefefe Primetime|r - Spirit Shell Ramp, |cfffe7b0
 Desolate 6 - {time:4:15} |cff006fdc Nollysham|r - HTT
 Disc Ramp - {time:4:35} |cfffefefe Astoriel|r - Spirit Shell Ramp
 Consume 3 - {time:4:45} |cfffefefe Primetime|r - Barrier, |cff006fdc Nollysham|r - SLT, |cfff38bb9 Sparty|r - Aura Mastery
-Disc Ramp - {5:03} |cfffefefe Primetime|r - Spirit Shell Ramp
-Desolate 7 - {5:10} |cfffe7b09 Izobela|r - Tranquility
+Disc Ramp - {time:5:03} |cfffefefe Primetime|r - Spirit Shell Ramp
+Desolate 7 - {time:5:10} |cfffe7b09 Izobela|r - Tranquility
 ```
