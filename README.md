@@ -56,3 +56,19 @@ Consume 3 - {time:4:45} |cfffefefe Primetime|r - Barrier, |cff006fdc Nollysham|r
 Disc Ramp - {time:5:03} |cfffefefe Primetime|r - Spirit Shell Ramp
 Desolate 7 - {time:5:10} |cfffe7b09 Izobela|r - Tranquility
 ```
+## Lady Inerva Darkvein
+```
+Disc Ramp - {time:0:50} |cfffefefe Priest|r - Spirit Shell Ramp
+Add 1 - {time:1:00} |cff006fdc Nollysham|r - SLT
+Lose Anima 1 - {time:1:30} |cff006fdc Nollysham|r - HTT
+Disc Ramp - {time:1:50} |cfffefefe Priest|r - Spirit Shell Ramp
+Add 2 - {time:2:00} |cffc31d39 AMZ|r, |cfff38bb9 Sparty|r - Holy Avenger
+Disc Ramp - {time:2:50} |cfffefefe Priest|r - Spirit Shell Ramp
+Add 3 - {time:3:00} |cfff38bb9 Sparty|r - Aura Mastery, Vampiric Embrace
+Disc Ramp - {time:3:50} |cfffefefe Priest|r - Spirit Shell Ramp
+Add 4 - {time:4:00} |cfff38bb9 Sparty|r - Holy Avenger, |cffc59a6c Rallying Cry|r
+Disc Ramp - {time:4:50} |cfffefefe Priest|r - Spirit Shell Ramp
+Add 5 - {time:5:00} |cff006fdc Nollysham|r - SLT, |cfffefefe Priest|r - Barrier
+Disc Ramp - {time:5:50} |cfffefefe Priest|r - Spirit Shell Ramp
+Add 6 - {time:6:00} |cfff38bb9 Sparty|r - Holy Avenger
+```
