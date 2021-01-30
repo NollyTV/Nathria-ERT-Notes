@@ -72,3 +72,12 @@ Add 5 - {time:5:00} |cff006fdc Nollysham|r - SLT, |cfffefefe Priest|r - Barrier
 Disc Ramp - {time:5:50} |cfffefefe Priest|r - Spirit Shell Ramp
 Add 6 - {time:6:00} |cfff38bb9 Sparty|r - Holy Avenger
 ```
+## Sire Denathrius
+### Heroic
+```
+|cffffff00Cleansing Pain 1|r - {time:0:09} |cffffff00Personals|r{spell:252184}|cffa22fc8Etrrigan|r {spell:196718}
+|cffff0000Blood Price 1|r - {time:0:24} |cff006fdcNollysham|r {spell:108280} HTT
+|cffffff00Cleansing Pain 2|r - {time:0:34} |cff006fdcNollysham|r {spell:98008}SLT, |cfff38bb9Sparty|r {spell:31821} AM, |cfffefefeDreaz|r {spell:15286}VE
+|cffffff00Cleansing Pain 3|r - {time:1:07} {spell:62618}PW:S, |cffc59a6cJhelnok|r {spell:97462}Rally, |cfffe7b09Izobela|r {spell:740} Tranq
+|cffffff00Cleansing Pain 4|r - {time:1:32} |cffc31d39Padoqa|r {spell:165775}AMZ, Tubby {spell:15286}VE
+```
