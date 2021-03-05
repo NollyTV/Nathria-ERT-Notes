@@ -72,6 +72,23 @@ Add 5 - {time:5:00} |cff006fdc Nollysham|r - SLT, |cfffefefe Priest|r - Barrier
 Disc Ramp - {time:5:50} |cfffefefe Priest|r - Spirit Shell Ramp
 Add 6 - {time:6:00} |cfff38bb9 Sparty|r - Holy Avenger
 ```
+## Artificer Xymmox
+```
+Disc Ramp - {time:0:50} |cfffefefe Priest|r - Spirit Shell Ramp
+Glyph of Destruction 2 - {time:1:00} |cffc31d39 AMZ|r, |cfffefefe Astoriel|r  - Barrier
+Disc Ramp - {time:1:50} |cfffefefe Priest|r - Spirit Shell Ramp
+Glyph of Destruction 3 - {time:2:00} |cfffe7b09 Izobela|r - Tranquility
+Disc Ramp - {time:2:50} |cfffefefe Priest|r - Spirit Shell Ramp
+Glyph of Destruction 4 - {time:3:00} |cffc31d39 AMZ|r, |cff006fdc Nollysham|r - HTT
+Disc Ramp - {time:3:50} |cfffefefe Priest|r - Spirit Shell Ramp
+Glyph of Destruction 5 - {time:4:00} |cfff38bb9 Sparty|r - Aura Mastery, |cfffefefe Primetime|r - Barrier, |cff006fdc Nollysham|r - SLT
+Disc Ramp - {time:4:50} |cfffefefe Priest|r - Spirit Shell Ramp
+Glyph of Destruction 6 - {time:5:00} |cffc31d39 AMZ|r, |cfffe7b09 Izobela|r - Tranquility
+Disc Ramp - {time:5:50} |cfffefefe Priest|r - Spirit Shell Ramp
+Glyph of Destruction 7 - {time:6:00} |cff006fdc Nollysham|r - HTT, |cfffefefe Astoriel|r  - Barrier
+Disc Ramp - {time:6:50} |cfffefefe Priest|r - Spirit Shell Ramp
+Glyph of Destruction 8 - {time:7:00} |cffc31d39 AMZ|r, |cff006fdc Nollysham|r - SLT
+```
 ## Sire Denathrius
 ### Heroic
 ```
