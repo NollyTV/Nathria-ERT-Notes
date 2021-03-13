@@ -30,6 +30,8 @@
 |cff006fdc HTT|r
 |cff006fdc SLT|r
 |cfffe7b09 Tranqulity|r
+|cffa22fc8 Darkness|r
+|cfff38bb9 Aura Mastery|r
 ```
 
 ## Huntsman
@@ -98,15 +100,15 @@ Glyph of Destruction 8 - {time:7:00} |cffc31d39 AMZ|r, |cff006fdc Nollysham|r - 
 ```
 ## Council
 ```
-Dancing Fever 1 - {time:0:05} |cffc31d39 AMZ|r // Spirit Shell (12s pull timer)
-Dancing Fever 2 - {time:1:40} Power Word: Barrier // |cff006fdc HTT|r // Spirit Shell
-Dancing Fever 3 - {time:2:40} |cfffe7b09 Tranqulity|r // |cffc31d39 AMZ|r // Spirit Shell
-Dancing Fever 4 - {time:3:40} |cff006fdc SLT|r // Spirit Shell (add 5th healer throughput CD here: Hymn or Vamp Embrace)
-Dancing Fever 5 - {time:4:55} |cff006fdc HTT|r // |cffc31d39 AMZ|r // Spirit Shell
-Dancing Fever 6 - {time:5:55} |cff006fdc SLT|r // |cfffe7b09 Tranqulity|r // Spirit Shell
-Dancing Fever 7 - {time:6:55} |cfffe7b09 Tranqulity|r // |cffc31d39 AMZ|r // Spirit Shell
-Dancing Fever 8 - {time:8:15} Power Word: Barrier // |cff006fdc HTT|r // Spirit Shell     
-Dancing Fever 9 - {time:9:15} |cff006fdc SLT|r // |cffc31d39 AMZ|r // Spirit Shell
+Dancing Fever 1 - |cffc31d39 AMZ|r // |cffa22fc8 Darkness|r // Spirit Shell (14s pull timer)
+Dancing Fever 2 - Power Word: Barrier // |cff006fdc HTT|r // |cfff38bb9 Aura Mastery|r // Spirit Shell
+Dancing Fever 3 - |cfffe7b09 Tranqulity|r // |cff006fdc SLT|r // |cffc31d39 AMZ|r // Spirit Shell
+Dancing Fever 4 - |cffc59a6c Rally|r // Spirit Shell // |cffa22fc8 Darkness|r
+Dancing Fever 5 - |cff006fdc HTT|r // |cffc31d39 AMZ|r // Spirit Shell
+Dancing Fever 6 - |cff006fdc SLT|r // VE // Spirit Shell // |cffc31d39 AMZ|r // |cfff38bb9 Aura Mastery|r
+Dancing Fever 7 - |cfffe7b09 Tranqulity|r // Spirit Shell
+Dancing Fever 8 - Power Word: Barrier // |cff006fdc HTT|r // Spirit Shell     
+Dancing Fever 9 - |cff006fdc SLT|r // |cffc31d39 AMZ|r // Spirit Shell // |cffa22fc8 Darkness|r
 ```
 ## Sire Denathrius
 ### Heroic
