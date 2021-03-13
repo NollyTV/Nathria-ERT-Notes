@@ -24,6 +24,13 @@
 |cff55ee55|r - Soft Green
 |cff5555ee|r - Soft Blue
 ```
+## Spell Cheat Sheet
+```
+|cffc31d39 AMZ|r
+|cff006fdc HTT|r
+|cff006fdc SLT|r
+|cfffe7b09 Tranqulity|r
+```
 
 ## Huntsman
 ```
@@ -88,6 +95,18 @@ Disc Ramp - {time:5:50} |cfffefefe Priest|r - Spirit Shell Ramp
 Glyph of Destruction 7 - {time:6:00} |cff006fdc Nollysham|r - HTT, |cfffefefe Astoriel|r  - Barrier
 Disc Ramp - {time:6:50} |cfffefefe Priest|r - Spirit Shell Ramp
 Glyph of Destruction 8 - {time:7:00} |cffc31d39 AMZ|r, |cff006fdc Nollysham|r - SLT
+```
+## Council
+```
+Dancing Fever 1 - {time:0:05} |cffc31d39 AMZ|r // Spirit Shell (12s pull timer)
+Dancing Fever 2 - {time:1:40} Power Word: Barrier // |cff006fdc HTT|r // Spirit Shell
+Dancing Fever 3 - {time:2:40} |cfffe7b09 Tranqulity|r // |cffc31d39 AMZ|r // Spirit Shell
+Dancing Fever 4 - {time:3:40} |cff006fdc SLT|r // Spirit Shell (add 5th healer throughput CD here: Hymn or Vamp Embrace)
+Dancing Fever 5 - {time:4:55} |cff006fdc HTT|r // |cffc31d39 AMZ|r // Spirit Shell
+Dancing Fever 6 - {time:5:55} |cff006fdc SLT|r // |cfffe7b09 Tranqulity|r // Spirit Shell
+Dancing Fever 7 - {time:6:55} |cfffe7b09 Tranqulity|r // |cffc31d39 AMZ|r // Spirit Shell
+Dancing Fever 8 - {time:8:15} Power Word: Barrier // |cff006fdc HTT|r // Spirit Shell     
+Dancing Fever 9 - {time:9:15} |cff006fdc SLT|r // |cffc31d39 AMZ|r // Spirit Shell
 ```
 ## Sire Denathrius
 ### Heroic
