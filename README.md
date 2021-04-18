@@ -32,6 +32,9 @@
 |cfffe7b09 Tranqulity|r
 |cffa22fc8 Darkness|r
 |cfff38bb9 Aura Mastery|r
+|cffc59a6c Rally|r
+|cff55ee55 Health Stone|r
+|cffee5555 Health Pots|r
 ```
 
 ## Huntsman
@@ -109,6 +112,22 @@ Dancing Fever 6 - |cff006fdc SLT|r // VE // Spirit Shell // |cffc31d39 AMZ|r // 
 Dancing Fever 7 - |cfffe7b09 Tranqulity|r // Spirit Shell
 Dancing Fever 8 - Power Word: Barrier // |cff006fdc HTT|r // Spirit Shell     
 Dancing Fever 9 - |cff006fdc SLT|r // |cffc31d39 AMZ|r // Spirit Shell // |cffa22fc8 Darkness|r
+```
+## Sludgefist
+```
+Roar 1 - {time:0:00} - |cff006fdc HTT|r
+Chain 1 - {time:0:30} 
+Pillar 1 - {time:1:00} - Spirit Shell, Barrier, |cfff38bb9 Aura Mastery|r, VE1
+Chain 2 - {time:1:40} - |cff006fdc SLT|r
+Pillar 2 - {time:2:00} - Spirit Shell, |cffc59a6c Rally|r, VE2
+Roar 2 - {time:2:10} - |cffa22fc8 Darkness|r
+Chain 3 - {time:2:48} 
+Pillar 3 - {time:3:00} - Spirit Shell, |cff55ee55 Health Stone|r, |cfffe7b09 Tranqulity|r, VE1
+Roar 3 - {time:3:15} - |cffee5555 Health Pots|r, |cffa22fc8 Darkness|r, VE2
+Chain 4 - {time:3:55} - |cfff38bb9 BoP/Sac|r
+Pillar 4 - {time:4:00} - Spirit Shell, Barrier, |cfff38bb9 Aura Mastery|r
+Chain 5 - {time:5:02} - |cff006fdc SLT|r
+Wall - {time:5:15} - Spirit Shell, |cffa22fc8 Darkness|r, |cffc59a6c Rally|r
 ```
 ## Sire Denathrius
 ### Heroic
