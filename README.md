@@ -29,12 +29,16 @@
 |cffc31d39 AMZ|r
 |cff006fdc HTT|r
 |cff006fdc SLT|r
+|cff006fdc AP Totem|r
 |cfffe7b09 Tranqulity|r
 |cffa22fc8 Darkness|r
 |cfff38bb9 Aura Mastery|r
 |cffc59a6c Rally|r
 |cff55ee55 Health Stone|r
 |cffee5555 Health Pots|r
+|cfffefefe Hymm|r
+|cfffefefe VE|r
+|cfffefefe Salvation|r
 ```
 
 ## Huntsman
@@ -128,6 +132,27 @@ Chain 4 - {time:3:55} - |cfff38bb9 BoP/Sac|r
 Pillar 4 - {time:4:00} - Spirit Shell, Barrier, |cfff38bb9 Aura Mastery|r
 Chain 5 - {time:5:02} - |cff006fdc SLT|r
 Wall - {time:5:15} - Spirit Shell, |cffa22fc8 Darkness|r, |cffc59a6c Rally|r
+```
+
+## Stone Legion Generals
+```
+Meteor 1  - |cffc31d39 AMZ|r, |cff006fdc SLT|r, |cff006fdc HTT|r
+Soultaint 2 - |cff006fdc AP Totem|r
+Meteor 2 - |cffc31d39 AMZ|r, |cfffefefe Hymm|r
+Meteor 3 - |cff006fdc HTT|r, |cffc59a6c Rally|r, |cff006fdc AP Totem|r
+Soultaint 3 - |cff006fdc SLT|r, |cfff38bb9 Aura Mastery|r, |cfffefefe VE|r
+Meteor 4 - |cffc31d39 AMZ|r, |cfffefefe Salvation|r
+Meteor 5 - |cffc31d39 AMZ|r, |cff006fdc HTT|r
+Soultaint 4 - |cff006fdc SLT|r, |cfffefefe Hymm|r
+Meteor 6 - |cffc31d39 AMZ|r
+Soultaint 5 - |cff006fdc SLT|r, |cff006fdc AP Totem|r, |cff006fdc HTT|r
+Meteor 7 - |cffc31d39 AMZ|r, |cffc59a6c Rally|r, |cfff38bb9 Aura Mastery|r
+Meteor 8 - |cffc31d39 AMZ|r
+Soultaint 6 - |cff006fdc SLT|r, |cfffefefe VE|r
+Meteor 9 - |cffc31d39 AMZ|r, |cfffefefe Hymm|r
+Meteor 10 - |cffc31d39 AMZ|r, |cfffefefe Salvation|r, |cff006fdc AP Totem|r
+Meteor 11 - |cff006fdc SLT|r, |cffc59a6c Rally|r, |cfff38bb9 Aura Mastery|r
+Meteor 12 - |cff006fdc SLT|r, |cfffefefe Hymm|r
 ```
 ## Sire Denathrius
 ### Heroic
